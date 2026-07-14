@@ -76,8 +76,8 @@ python main.py
 
 The following documentation is included in the `docs` folder:
 
-- Manual_de_Sistema (Spanish)
-- Manual_de_Usuario (Spanish)
+- [Manual de Sistema (Spanish)](docs/Manual_de_Sistema.pdf)
+- [Manual de Usuario (Spanish)](docs/Manual_de_Usuario.pdf)
 
 ---
 
