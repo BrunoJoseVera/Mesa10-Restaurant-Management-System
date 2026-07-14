@@ -4,7 +4,7 @@ from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from datetime import datetime, date
 from collections import Counter
-import database
+from . import database
 
 class GraphSemanal:
     def __init__(self, root):

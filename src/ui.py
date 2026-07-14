@@ -1,11 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-from tkinter import messagebox
-from sqlite3 import IntegrityError
-import database
-import styles
-import graphs
-import initial_data
+from . import database
 
 
 class TreeViewGUI:

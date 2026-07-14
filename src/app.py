@@ -1,10 +1,10 @@
 from tkinter import *
 from tkinter import ttk
-import database
-import styles
-import graphs
-import initial_data
-from ui import TreeViewGUI, mostrar_gui
+from . import database
+from . import styles
+from . import graphs
+from . import initial_data
+from .ui import TreeViewGUI, mostrar_gui
 
 def main():
     root = Tk()
